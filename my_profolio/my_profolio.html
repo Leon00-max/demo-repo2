@@ -1,0 +1,272 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="my_profolio.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="my_profolio.js" defer></script>
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="header">
+        <div class="slideshow-container">
+            <!-- Slide 1 -->
+            <div class="slide fade">
+                <div class="header-content">
+                    <div class="profile-image">
+                        <img src="dadju.jpg" alt="Profile Image" id="profile-img">
+                    </div>
+                    <div class="header-text">
+                        <h1>WEREKU BLAISE</h1>
+                        <h2>Developer & Cybersecurity Enthusiast</h2>
+                        <p class="welcome-message">Welcome to my digital fortress! I'm passionate about creating secure and innovative solutions in the cybersecurity landscape.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Slide 2 -->
+            <div class="slide fade">
+                <div class="header-content">
+                    <div class="profile-image">
+                        <img src="dadju.jpg" alt="Profile Image" id="profile-img">
+                    </div>
+                    <div class="header-text">
+                        <h1>WEREKU BLAISE</h1>
+                        <h2>Cybersecurity Professional</h2>
+                        <p class="welcome-message">Turning complex security challenges into opportunities for innovation. Let's build a safer digital world together!</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Slide 3 -->
+            <div class="slide fade">
+                <div class="header-content">
+                    <div class="profile-image">
+                        <img src="dadju.jpg" alt="Profile Image" id="profile-img">
+                    </div>
+                    <div class="header-text">
+                        <h1>WEREKU BLAISE</h1>
+                        <h2>Innovative Tech Explorer</h2>
+                        <p class="welcome-message">Constantly learning, adapting, and breaking new grounds in technology. Join me on this journey of continuous innovation!</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Navigation Arrows -->
+            <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+            <a class="next" onclick="changeSlide(1)">&#10095;</a>
+
+            <!-- Dots/Circles -->
+            <div class="dots-container">
+                <span class="dot" onclick="currentSlide(1)"></span>
+                <span class="dot" onclick="currentSlide(2)"></span>
+                <span class="dot" onclick="currentSlide(3)"></span>
+            </div>
+        </div>
+
+        <nav class="navigation">
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="section about-section">
+        <div class="section-container">
+            <h2 class="section-title">About Me</h2>
+                <div class="about-intro">
+                    <div class="about-profile-image">
+                        <img src="dadju.jpg" alt="Profile Image">
+                    </div>
+                    <p>Hello! I'm a passionate Computer Science student at the University of Buea with a focused interest in cybersecurity. I'm driven by the ever-evolving challenges in this field and am constantly seeking opportunities to expand my knowledge and skills.</p>
+                </div>
+
+                <div class="about-education">
+                    <h3><i class="fas fa-graduation-cap"></i> Educational Background</h3>
+                    <p>My academic journey has equipped me with a strong foundation in computer science principles, algorithms, and programming paradigms. I've completed courses in network security, cryptography, and ethical hacking, which have deepened my understanding of cybersecurity concepts and practices.</p>
+                </div>
+
+                <div class="about-aspirations">
+                    <h3><i class="fas fa-rocket"></i> Professional Aspirations</h3>
+                    <p>I aim to contribute significantly to the cybersecurity landscape by developing innovative solutions that enhance digital safety. My goal is not just to protect systems and data but to empower individuals and organizations to navigate the digital world with confidence.</p>
+                </div>
+
+                <div class="about-interests">
+                    <h3><i class="fas fa-code-branch"></i> Beyond Cybersecurity</h3>
+                    <p>My interests extend beyond cybersecurity to include web development, machine learning, and exploring emerging technologies. I believe in the power of cross-disciplinary knowledge and how it can lead to more comprehensive and robust solutions.</p>
+                    <div class="about-skills-tags">
+                        <span class="about-skill-tag">Web Development</span>
+                        <span class="about-skill-tag">Machine Learning</span>
+                        <span class="about-skill-tag">IoT</span>
+                        <span class="about-skill-tag">Blockchain</span>
+                        <span class="about-skill-tag">Cloud Computing</span>
+                    </div>
+                </div>
+
+                <div class="about-philosophy">
+                    <h3><i class="fas fa-lightbulb"></i> Personal Philosophy</h3>
+                    <p>"Stay curious, stay innovative." This mantra guides my approach to learning and problem-solving. I believe that continuous curiosity drives innovation and personal growth. I invite you to connect with me or explore my projects to join me on this exciting journey in the tech world.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section projects-section">
+        <div class="section-container">
+            <h2 class="section-title">My Projects</h2>
+            <div class="projects-grid" id="projects-container">
+                <div class="project-card">
+                    <h3>Personal Portfolio Website</h3>
+                    <p>A personal portfolio website designed to showcase my projects and skills. The site features a dark theme, responsive design, and smooth navigation.</p>
+                    <p class="tech-used">Technologies Used: HTML, CSS, JavaScript, Bootstrap</p>
+                    <a href="#" class="project-link">View Project</a>
+                </div>
+                <!-- More projects will be added dynamically -->
+            </div>
+            <button id="show-projects-btn" class="btn primary-btn">Show More Projects</button>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section skills-section">
+        <div class="section-container">
+            <h2 class="section-title">My Skills</h2>
+            <div class="skills-container">
+                <div class="skill-category">
+                    <h3>Development</h3>
+                    <div class="skill-item">
+                        <span>Front-end Development</span>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 90%"></div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                        <span>Programming</span>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 85%"></div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                        <span>Cybersecurity</span>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 75%"></div>
+                        </div>
+                    </div>
+                    <div class="skill-item">
+                        <span>Graphic Design</span>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 80%"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Languages</h3>
+                    <div class="skills-tags">
+                        <span class="skill-tag">HTML</span>
+                        <span class="skill-tag">CSS</span>
+                        <span class="skill-tag">JavaScript</span>
+                        <span class="skill-tag">C</span>
+                        <span class="skill-tag">C++</span>
+                        <span class="skill-tag">Java</span>
+                        <span class="skill-tag">Python</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section contact-section">
+        <div class="section-container">
+            <h2 class="section-title">Get In Touch</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <p>Feel free to reach out to me through any of the following channels:</p>
+                    <div class="social-links">
+                        <a href="mailto:youremail@example.com" class="social-icon">
+                            <i class="fas fa-envelope"></i>
+                        </a>
+                        <a href="https://github.com/yourusername" target="_blank" class="social-icon">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <a href="https://facebook.com/yourusername" target="_blank" class="social-icon">
+                            <i class="fab fa-facebook"></i>
+                        </a>
+                        <a href="https://tiktok.com/@yourusername" target="_blank" class="social-icon">
+                            <i class="fab fa-tiktok"></i>
+                        </a>
+                        <a href="https://wa.me/1234567890" target="_blank" class="social-icon">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <a href="https://t.me/yourusername" target="_blank" class="social-icon">
+                            <i class="fab fa-telegram"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="contact-form">
+                    <form id="contact-form">
+                        <div class="form-group">
+                            <input type="text" id="name" name="name" placeholder="Your Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" id="email" name="email" placeholder="Your Email" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea id="message" name="message" placeholder="Your Message" required></textarea>
+                        </div>
+                        <button type="submit" class="btn primary-btn">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-intro">
+            <h3>WEREKU BLAISE</h3>
+            <p class="footer-title">Aspiring Cybersecurity Expert</p>
+        </div>
+        
+        <div class="footer-university">
+            <div class="university-logo">
+                <img src="ubim.jpg" alt="University of Buea Logo">
+            </div>
+            <p>Proud student at the University of Buea</p>
+            <a href="https://ubuea.cm/" target="_blank" class="university-link">Visit University of Buea</a>
+        </div>
+        
+        <div class="footer-appreciation">
+            <p>A special thanks to my brother, mother, and uncles for their unwavering support on my journey.</p>
+        </div>
+        
+        <div class="footer-copyright">
+            <p>&copy; 2025 WEREKU BLAISE. All Rights Reserved.</p>
+        </div>
+    </div>
+</footer>
+
+    </footer>
+
+    <!-- Modal for Project Interaction -->
+    <div id="name-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h3>Hello there!</h3>
+            <p>Please enter your name to see my projects:</p>
+            <input type="text" id="visitor-name" placeholder="Your Name">
+            <button id="submit-name" class="btn primary-btn">Submit</button>
+        </div>
+    </div>
+
+    </body>
+</html>

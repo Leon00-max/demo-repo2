@@ -1,0 +1,1183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en">
+<head>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script type="text/javascript">
+	  $(document).ready(function(){
+		  $(".menu-toggle").click(function(e){
+			  $("body").toggleClass("menu-open");
+		      e.preventDefault();
+	  	  });
+	  });
+  
+</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+	<meta name="description" content="Cameroon" />
+
+
+
+
+<title>Cameroon - Home - AU-IBAR ECOSYSTEM</title>
+
+
+
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/combined.css.h-387612352.pack" charset="utf-8"/>
+
+
+  <link rel="stylesheet" href="/themes/f5/color-schemes/black/css/ccp-color.css?2018-03-12" />
+
+
+
+  <link rel="alternate" type="application/rss+xml" title="AU-IBAR Networks" href="https://networks.au-ibar.org/feed/rss.xml"/>
+
+
+  
+    <link rel="alternate" type="application/rss+xml" title="AU-IBAR Networks - Groups" href="https://networks.au-ibar.org/feed/groups/rss.xml"/>
+  
+
+  
+    <link rel="alternate" type="application/rss+xml" title="AU-IBAR Networks - Countries" href="https://networks.au-ibar.org/feed/countries/rss.xml"/>
+  
+
+  
+    <link rel="alternate" type="application/rss+xml" title="AU-IBAR Networks - Organizations" href="https://networks.au-ibar.org/feed/organizations/rss.xml"/>
+  
+
+  
+    <link rel="alternate" type="application/rss+xml" title="AU-IBAR Networks - People" href="https://networks.au-ibar.org/feed/people/rss.xml"/>
+  
+
+  
+    <link rel="alternate" type="application/rss+xml" title="AU-IBAR Networks - Programs" href="https://networks.au-ibar.org/feed/programs/rss.xml"/>
+  
+
+  
+    <link rel="alternate" type="application/rss+xml" title="AU-IBAR Networks - Business" href="https://networks.au-ibar.org/feed/business/rss.xml"/>
+  
+
+  
+    <link rel="alternate" type="application/rss+xml" title="AU-IBAR Networks - Places" href="https://networks.au-ibar.org/feed/places/rss.xml"/>
+  
+
+
+
+<script type="text/javascript">
+  var teamelements_ctx = '';
+  var connect_startDayOfWeek = 0;
+  var connect_datePattern = 'yyyy/MM/dd';
+  var connect_dateFieldDelimiter = '/';
+  var connect_dateDayPosition = 2;
+  var connect_dateMonthPosition = 1;
+  var connect_dateYearPosition = 0;
+  YUI_config = {
+    combine: true,
+    comboBase: teamelements_ctx + "/load-yui?",
+    base: teamelements_ctx + "/javascript/yui-3.17.2/build/",
+    root: "3.17.2/build/"
+  };
+</script>
+
+<script type="text/javascript" src="/javascript/combined.js.h-830557330.pack" charset="utf-8"></script>
+
+
+
+
+
+
+  
+    
+    
+      <style type="text/css">
+        /* Set the background color for the header */
+#ccp-profile-header { 
+  background:#ffffff url(/show/cameroon/style-image/CSTLSADCPlacespkl.png) no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    display: block;
+    position: relative;
+    height: 270px;
+}
+
+#ccp-profile-menu {
+    background-color: #D7DADD;
+}
+
+#ccp-profile-menu .sub-nav dd a {
+  color: #ffffff;
+}
+
+.vcard {
+ display: none;
+}
+
+#ccp-profile-header .portletWrapper > h3 {
+/* color:#00b7ad;
+text-shadow: 0 0 10px #000000;
+  font-weight: bolder;*/
+display:none;
+}
+
+#ccp-profile-header .portletWrapper > h5 {
+
+display:none;
+}
+
+.profileImage{
+	display:none !important;
+}
+      </style>
+    
+    
+  
+
+
+
+<link rel="SHORTCUT ICON" href="/favicon.ico" />
+</head>
+<body class=""
+	 id="body-countries">
+	
+	
+	
+	<header>
+		<div class="contain-to-grid sticky">
+			<nav class="top-bar" data-topbar role="navigation">
+				<ul class="title-area">
+					
+						
+							<li class="name"><h1>
+									<a href="/">AU-IBAR ECOSYSTEM</a>
+								</h1></li>
+						
+						
+					
+					
+				</ul>
+				<section class="top-bar-section">
+				<button class="menu-toggle">
+					<span></span>
+					<span></span>
+					<span></span>
+				</button>
+				<!-- <div class="menu-overlay"></div> -->
+				<div class="side-menu">
+					<ul class="right">
+						
+							
+								<li class="has-form"><a href="/login" class="button">Sign
+										In</a></li>
+								
+									<li class="has-form"><a href="/register"
+										class="button">Join</a></li>
+								
+							
+							
+						
+					</ul>
+					
+						<ul class="left">
+							
+								  
+								
+								
+								
+								
+									
+									
+										<li id="ccp-tabitem-groups"><a id="ccp-tab-groups" href="/groups.shtml">Networks</a></li>
+									
+								
+							 
+							
+								  
+								
+								
+								
+								
+									
+									
+										<li id="ccp-tabitem-countries" class="active"><a id="ccp-tab-countries" class="active" href="/countries.shtml">Countries</a></li>
+									
+								
+							 
+							
+								  
+								
+								
+								
+								
+									
+									
+										<li id="ccp-tabitem-organizations"><a id="ccp-tab-organizations" href="/organizations.shtml">Organisations</a></li>
+									
+								
+							 
+							
+								  
+								
+								
+								
+								
+									
+									
+										<li id="ccp-tabitem-people"><a id="ccp-tab-people" href="/people.shtml">People</a></li>
+									
+								
+							 
+							
+								  
+								
+								
+								
+								
+									
+									
+										<li id="ccp-tabitem-programs"><a id="ccp-tab-programs" href="/programs.shtml">Centres of Excellence</a></li>
+									
+								
+							 
+							
+								  
+								
+								
+								
+								
+									
+									
+										<li id="ccp-tabitem-business"><a id="ccp-tab-business" href="/business.shtml">Agri-business</a></li>
+									
+								
+							 
+							
+								  
+								
+								
+								
+								
+									
+									
+										<li id="ccp-tabitem-places"><a id="ccp-tab-places" href="/places.shtml">Education</a></li>
+									
+								
+							 
+							
+						</ul>
+					
+					</div>
+				</section>
+			</nav>
+		</div>
+	</header>
+	<section role="main">
+		
+		
+		
+			
+			
+				
+			
+		
+		
+		
+			
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <div class="yui-content">
+    <div class="projectCenterPortalContainer">
+      
+      <div id="ccp-profile-content"><div id="ccp-profile-header-container"><div><div id="ccp-profile-header"><div><div class="row"><div class="medium-3 columns"><div id="ccp-dynamic-0"class="ccp-portlet portletWrapper profileImage">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="javascript" type="text/javascript" src="/javascript/tinymce/tinymce.min.js"></script>
+<script language="javascript" type="text/javascript">
+  function initEditor(ta) {
+
+    tinymce.init({
+      // PlugIn settings
+      // Editor settings
+      browser_spellcheck : true,
+      width : "100%",
+      strict_loading_mode : true,
+      mode : "exact",
+	    elements : ta,
+	    relative_urls : false,
+      menubar : false,
+      toolbar: "formatselect | bold italic underline strikethrough",
+      extended_valid_elements: "object[width|height|type|data],param[name|value],embed[src|type|width|height|flashvars|wmode]",
+      plugins : "spellchecker,autolink",
+      content_css : "/css/foundation-5.5.0/normalize.css,/css/foundation-5.5.0/foundation.css,/css/editor.css?v=2018-03-12,/themes/f5/color-schemes/black/css/ccp-color.css?2018-03-12"
+    });
+  }
+</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  var Pluto___ProfileImagePortlet_T0_currentImage = "2008090514-20-81-400x300/AUIBAR+Icons+(2).png";
+  var Pluto___ProfileImagePortlet_T0_isOwner = (false);
+  var Pluto___ProfileImagePortlet_T0_isVideoOwner = (false);
+  var Pluto___ProfileImagePortlet_T0_handlePrevButtonState = function(type, args) {
+    var enabling = args[0];
+    var leftImage = args[1];
+    if (enabling) {
+      leftImage.src = "/images/left-enabled.png";
+    }
+  };
+
+  var Pluto___ProfileImagePortlet_T0_handleNextButtonState = function(type, args) {
+    var enabling = args[0];
+    var rightImage = args[1];
+    if (enabling) {
+      rightImage.src = "/images/right-enabled.png";
+    }
+  };
+
+  var Pluto___ProfileImagePortlet_T0_pageLoad = function(e) {
+    new YAHOO.extension.Carousel("Pluto___ProfileImagePortlet_T0_mycarousel",
+    {
+      numVisible: 3,
+      animationSpeed: 0.15,
+      scrollInc: 2,
+      navMargin: 20,
+      prevElement: "prev-arrow",
+      nextElement: "next-arrow",
+      wrap: true,
+      size: 1,
+      prevButtonStateHandler: Pluto___ProfileImagePortlet_T0_handlePrevButtonState,
+      nextButtonStateHandler: Pluto___ProfileImagePortlet_T0_handleNextButtonState
+    }
+        );
+  };
+  
+  YAHOO.util.Event.addListener(window, 'load', Pluto___ProfileImagePortlet_T0_pageLoad);
+  
+
+  function Pluto___ProfileImagePortlet_T0_spotlight(url, owner, videoLink, videoId) {
+    Pluto___ProfileImagePortlet_T0_currentImage = url;
+    Pluto___ProfileImagePortlet_T0_isOwner = (owner == -2);
+    Pluto___ProfileImagePortlet_T0_isVideoOwner = (owner == -2);
+    if (videoLink) {
+      Pluto___ProfileImagePortlet_T0_videoId = videoId;
+      if (Pluto___ProfileImagePortlet_T0_isVideoOwner) {
+        showSpan('Pluto___ProfileImagePortlet_T0_videoDelete');
+      } else {
+        hideSpan('Pluto___ProfileImagePortlet_T0_videoDelete');
+      }
+    	YAHOO.util.Dom.get('Pluto___ProfileImagePortlet_T0_profileImage').innerHTML = "<a href=\"javascript:Pluto___ProfileImagePortlet_T0_showMediaPanel('" + escape(videoLink) + "',700,'Pluto___ProfileImagePortlet_T0_Images');\">" +
+        "<div class='video-img' style='width:210px;height:150px;'><img src='" + url + "' class='videothumbnail-img'/></div></a>";
+    	hideSpan('Pluto___ProfileImagePortlet_T0_profileImageDelete');
+    	hideSpan('Pluto___ProfileImagePortlet_T0_makeDefault');
+    	hideSpan('Pluto___ProfileImagePortlet_T0_markInappropriate');
+    } else {
+      if (Pluto___ProfileImagePortlet_T0_isOwner) {
+        showSpan('Pluto___ProfileImagePortlet_T0_profileImageDelete');
+      } else {
+        hideSpan('Pluto___ProfileImagePortlet_T0_profileImageDelete');
+      }
+      var link = "/show/cameroon/image/" + url.replace("400x300", "640x480");
+      YAHOO.util.Dom.get('Pluto___ProfileImagePortlet_T0_profileImage').innerHTML =
+          "<a href=\"javascript:Pluto___ProfileImagePortlet_T0_showMediaPanel('" + escape(link) + "',700,'Pluto___ProfileImagePortlet_T0_Images');\">" +
+          "<img src='/show/cameroon/image/" + url + "' width='210' height='150' /></a>";
+      showSpan('Pluto___ProfileImagePortlet_T0_makeDefault');
+      showSpan('Pluto___ProfileImagePortlet_T0_markInappropriate');
+  		hideSpan('Pluto___ProfileImagePortlet_T0_videoDelete');
+    }
+  }
+  function Pluto___ProfileImagePortlet_T0_deleteImage() {
+    if (Pluto___ProfileImagePortlet_T0_isOwner) {
+      confirmDelete('/remove/cameroon/image/' + Pluto___ProfileImagePortlet_T0_currentImage);
+    } else {
+      alert('You cannot delete other\'s images');
+    }
+  }
+  function Pluto___ProfileImagePortlet_T0_deleteVideo() {
+    if (Pluto___ProfileImagePortlet_T0_isVideoOwner) {
+      confirmDelete('/remove/cameroon/video/' + Pluto___ProfileImagePortlet_T0_videoId);
+    } else {
+      alert('You cannot delete other\'s videos');
+    }
+  }
+  function Pluto___ProfileImagePortlet_T0_makeDefault() {
+    window.location.href = '/set/cameroon/image/' + Pluto___ProfileImagePortlet_T0_currentImage;
+  }
+
+  //Create an array of images with the width and height set
+  var Pluto___ProfileImagePortlet_T0_Images = {
+    profileImages : [
+      
+      
+      { url: "/show/cameroon/image/2008090514-20-81-640x480/AUIBAR+Icons+(2).png",
+        
+        
+        
+          title: "AUIBAR Icons (2).png -Cameroon image",
+        
+        
+        width: 640,
+        height: 480
+      }
+      
+    ]};
+
+  function Pluto___ProfileImagePortlet_T0_findImgByUrl(url) {
+    for (var i = 0; i != Pluto___ProfileImagePortlet_T0_Images["profileImages"].length; i++) {
+      var img = Pluto___ProfileImagePortlet_T0_Images["profileImages"][i];
+      var urlFound = img["url"];
+      if (url == urlFound) return img;
+    }
+    return null;
+  }
+
+  function Pluto___ProfileImagePortlet_T0_showImage(url, width, groupName) {
+    var imgFound = Pluto___ProfileImagePortlet_T0_findImgByUrl(url);
+    showImage(imgFound['title'], imgFound['url'], width, imgFound['height'], imgFound['width'], groupName);
+  }
+  
+  function Pluto___ProfileImagePortlet_T0_showMediaPanel(url, width, groupName) {
+    var imgFound = Pluto___ProfileImagePortlet_T0_findImgByUrl(url);
+    if (imgFound) {
+    	showMediaPanel(imgFound['title'], imgFound['url'], width, imgFound['height'], imgFound['width'], groupName);	
+    } else {
+    	showMediaPanel(null, url, width, null, null, groupName);
+    }
+    
+  }
+</script>
+
+
+
+
+  
+    
+    
+    
+  
+  
+
+
+
+<div class="portlet-menu-item-selected">
+  
+  
+  
+  
+    
+      
+      
+        
+      
+    
+    
+    <div id="Pluto___ProfileImagePortlet_T0_profileImage">
+      <a title="AUIBAR Icons (2).png - Cameroon image"
+         href="javascript:showMediaPanel('AUIBAR Icons (2).png - Cameroon image','/show/cameroon/image/2008090514-20-81-640x480/AUIBAR+Icons+(2).png',700,480,640, 'Pluto___ProfileImagePortlet_T0_Images');">
+        <img alt="AUIBAR Icons (2).png - Cameroon image" width="210" height="150"
+             src="/show/cameroon/image/2008090514-20-81-400x300/AUIBAR+Icons+(2).png"
+             onerror="handleImageError(this, 400);" />
+      </a>
+      
+    </div>
+  
+</div>
+
+
+
+  <div id="Pluto___ProfileImagePortlet_T0_mycarousel" class="carousel-component">
+    
+      
+      
+        <div class="carousel-prev">
+          
+        </div>
+        <div class="carousel-next" title="next" class="disabled">
+          
+        </div>
+      
+    
+    
+  </div>
+  
+
+<div class="row">
+  <div class="small-12 columns text-center">
+    
+    
+      
+      
+      
+      
+        
+        
+          
+        
+      
+      <span style="display:none"
+          id="Pluto___ProfileImagePortlet_T0_profileImageDelete">
+        <a href="javascript:Pluto___ProfileImagePortlet_T0_deleteImage()" title="Delete the current photo">
+          <i class="fa fa-times-circle fa-fw subheader"></i>
+        </a>
+      </span>
+      
+      
+        
+
+        
+        
+        
+      
+      <span style="display:none"
+          id="Pluto___ProfileImagePortlet_T0_videoDelete">
+        <a href="javascript:Pluto___ProfileImagePortlet_T0_deleteVideo()" title="Delete the current video">
+          <i class="fa fa-times-circle fa-fw subheader"></i>
+        </a>
+      </span>
+      
+        
+        
+          
+        
+      
+      
+    
+  </div>
+</div>
+</div></div><div class="medium-5 columns"><div id="ccp-profile-header-title"class="ccp-portlet portletWrapper">
+
+
+
+
+
+
+
+
+
+
+<h3 class="no-gap">Cameroon</h3>
+
+
+
+</div></div><div class="medium-4 columns"><div><div class="small-12 columns"><div id="ccp-profile-header-status"class="ccp-portlet portletWrapper medium-text-right">
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+      
+        <small><span class="success round label" title="The content in this profile is visible to everyone">PUBLIC PROFILE</span></small>
+      
+      
+      
+      
+      
+    
+  
+
+
+</div></div></div></div></div></div></div><div id="ccp-profile-menu"><div><div class="row"><div class="medium-12 columns"><div id="ccp-dynamic-9"class="ccp-portlet portletWrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <dl class="sub-nav">
+  
+  
+  
+
+  
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        
+          <dd id="ccp-tabitem-wiki" class="active"><a id="ccp-tab-wiki" class="active" href="/show/cameroon/wiki">Home</a></dd>
+        
+      
+      
+    
+  
+    
+    
+    
+      
+      
+      
+        
+          <dd id="ccp-tabitem-home"><a id="ccp-tab-home" href="/show/cameroon/blog">News</a></dd>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        
+          <dd id="ccp-tabitem-photos"><a id="ccp-tab-photos" href="/show/cameroon/photos">Photos</a></dd>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        
+          <dd id="ccp-tabitem-videos"><a id="ccp-tab-videos" href="/show/cameroon/videos">Videos</a></dd>
+        
+      
+      
+      
+      
+    
+  
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+        
+          <dd id="ccp-tabitem-documents"><a id="ccp-tab-documents" href="/show/cameroon/documents">Documents</a></dd>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  
+
+  
+    </dl>
+  
+  
+  
+
+</div></div></div></div></div></div></div><div class="ccp-portal"><div class="row"><div class="medium-8 main columns"><div id="ccp-dynamic-10"class="ccp-portlet portletWrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="message" class="menu">
+  <div class="alert-box">
+    Thank you for your valuable feedback
+  </div>
+</div>
+<div id="deleteMessage" class="menu">
+  <div class="alert-box">
+    Comment deleted
+  </div>
+</div>
+<div class="articleContainer">
+  
+    <div class="articleHeader">
+      <div class="header">
+        
+          
+          
+            
+              
+              
+            
+            <ul class="breadcrumbs">
+              <li><a href="/show/cameroon/wiki">Home</a></li>
+              
+              
+                
+                
+                
+              
+              
+                
+                
+                  <li class="current">Educational institutions for animal resources</li>
+                
+              
+            
+            </ul>
+          
+        
+        <h2>
+        
+          
+            Educational institutions for animal resources
+          
+          
+        
+        
+        </h2>
+      </div>
+
+      
+
+      
+    </div>
+  
+  <div>
+    
+    
+      <p><img id="wikiImageAUIBARIntroWikiBanners_21png" width="920" height="260" src="/show/cameroon/wiki-image/AUIBARIntroWikiBanners+%2821%29.png"  alt="AUIBARIntroWikiBanners (21).png" /></p>
+<table class="wikiTable">
+<tr class="row1"><td style="width: 21.0871%;" class="wikiRow2Col1"><p><img id="wikiImageAU_REC_logos_-_2022-04-14T125319654png" width="139" height="139" src="/show/cameroon/wiki-image/AU+REC+logos+-+2022-04-14T125319.654.png"  alt="AU REC logos - 2022-04-14T125319.654.png" /></p>
+<p><a class="wikiLink internal" href="/show/university-of-dschang-bp-96-dschang">University of Dschang</a></p></td><td style="width: 22.116%;" class="wikiRow2Col2"><p><img id="wikiImageAU_REC_logos_-_2022-04-14T125435313png" width="141" height="141" src="/show/cameroon/wiki-image/AU+REC+logos+-+2022-04-14T125435.313.png"  alt="AU REC logos - 2022-04-14T125435.313.png" /></p>
+<p><a class="wikiLink internal" href="/show/university-of-yaonde-i-ngoa-ekelle">University of Yaonde I</a></p></td><td style="width: 23.3528%;" class="wikiRow2Col3"><p><img id="wikiImageAU_REC_logos_-_2022-04-14T125507333png" width="142" height="142" src="/show/cameroon/wiki-image/AU+REC+logos+-+2022-04-14T125507.333.png"  alt="AU REC logos - 2022-04-14T125507.333.png" /></p>
+<p><a class="wikiLink internal" href="/show/university-of-yaonde-i-ngoa-ekelle">University of Yaonde I</a></p></td></tr>
+</table>
+
+    
+  </div>
+
+  
+    <div class="row">
+      <div class="small-12 columns">
+        
+          
+          
+          
+          
+        
+        
+      </div>
+    </div>
+  
+
+
+
+</div>
+
+  <div class="userInputFooter">
+    
+    
+    
+      
+      
+    
+  </div>
+
+
+
+  
+    
+      
+      
+        
+          <div class="formContainer" id="thisCommentWindow1395">
+            <p>Sign in to add your comment.</p>
+          </div>
+        
+      
+    
+  
+
+</div></div><div class="medium-4 columns"><div id="ccp-dynamic-11"class="ccp-portlet portletWrapper panel callout">
+
+
+
+
+
+
+
+
+
+  <h3>Suggested Pages</h3>
+
+
+  
+    
+    
+      <p><a href="/show/cameroon/wiki/Educational+institutions+for+animal+resources" alt="Educational institutions for animal resources"><img id="wikiImageAUIBARIntroWikiBanners_15png" width="920" height="260" src="/show/cameroon/wiki-image/AUIBARIntroWikiBanners+%2815%29.png"  alt="AUIBARIntroWikiBanners (15).png" /></a></p>
+<p><strong>Click the label to explore South Africa's Veterinarian Universities</strong></p>
+<hr />
+<p><span style="font-family: helvetica, arial, sans-serif;"><strong>Official Names:</span></strong><br /><span style="font-family: helvetica, arial, sans-serif;">Republic of Cameroon (eng)</span><br /><span style="font-family: helvetica, arial, sans-serif;"><strong>Short form: </strong>Cameroun/Cameroon</span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><strong>ISO Country Code:</strong> cm<br /><strong>Time:</strong><br />Local Time = UTC +1h<br /><strong>Country Calling Code: </strong>+237</span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><strong>Capital City: </strong>Yaounde (pop. 1.1 million)<br /><strong>Other Cities:</strong> Douala, major seaport and commercial capital (1.3 million), Garoua (424,312), Maroua (409,546), Bafoussam (319,457), Bamenda (321,490), Nkongsamba (166,262), and Ngaoundere (216,300).</span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><strong>Government:</span></strong><br /><span style="font-family: helvetica, arial, sans-serif;">Republic; with a strong central government dominated by the president.</span><br /><span style="font-family: helvetica, arial, sans-serif;"><strong>Independence:</strong> 1 January 1960 (for areas formerly ruled by France) and</span><br /><span style="font-family: helvetica, arial, sans-serif;">1 October 1961 (for territory formerly ruled by Britain).</span><br /><span style="font-family: helvetica, arial, sans-serif;"><strong>Constitution:</strong> 2 June 1972, last amended in January 1996.</span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><strong>Geography:</span></strong><br /><span style="font-family: helvetica, arial, sans-serif;"><strong>Location:</strong> Central West Africa bordering the Bight of Biafra (part of the Gulf of Guinea and the Atlantic Ocean)</span><br /><span style="font-family: helvetica, arial, sans-serif;"><strong>Area:</strong> 475,650 km&sup2; (183,650) sq. mi.).</span><br /><span style="font-family: helvetica, arial, sans-serif;"><strong>Terrain: </strong>Northern plains, central and western highlands, southern and coastal tropical forests.</span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><strong>Highest peak:</strong> Mt. Cameroon (13,353 ft.).<br /><strong>Climate: </strong>Northern plains, the Sahel region--semiarid and hot (7-month dry season);<br />Central and western highlands where Yaounde is located--cooler, shorter dry season; southern tropical forest--warm, 4-month dry season; Coastal tropical forest, where Douala is located--warm, humid year-round.</span></p>
+
+    
+  
+  
+
+</div></div></div></div></div>
+    </div>
+  </div>
+
+
+
+
+			
+			
+		
+		
+	</section>
+	
+	<footer id="footer">
+		<div class="row">
+			<div class="medium-4 text-left small-only-text-center columns">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+			
+			<div class="medium-4 text-right small-only-text-center columns">
+				<p>
+					<a href="/about.shtml" title="About Us">About</a> <a
+						href="/contact_us.shtml" title="Contact Us">Contact</a> <a
+						href="/terms-of-service.shtml" rel="nofollow"
+						title="Terms of Service">Terms</a> <a
+						href="/privacy-policy.shtml" rel="nofollow"
+						title="Privacy Policy">Privacy</a>
+				</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="medium-12 text-center columns">
+				<p>
+					
+						
+						
+						
+							<a target="_blank"
+								title="The social business software platform for building enterprise and commercial social mobile hubs"
+								href="http://www.concursive.com"></a>
+						
+					
+				</p>
+			</div>
+		</div>
+	</footer>
+	
+	<div class="yui-skin-sam">
+		<div id="popupCalendar"></div>
+	</div>
+	<div class="yui-skin-sam">
+		<div id="popupLayer"></div>
+	</div>
+	<div class="yui3-skin-sam">
+		<div id="panelLayer"></div>
+	</div>
+	
+	
+	
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/javascript/combined.js.h-2075449302.pack" charset="utf-8"></script>
+  
+
+
+
+
+
+	<script>
+      $(document).foundation({
+        topbar : {
+          mobile_show_parent_link: true
+        },
+        magellan : {
+          active_class: 'active',
+          threshold: 0
+        },
+        orbit : {
+          timer_speed: 8000,
+          animation_speed: 1000,
+          swipe: false
+        }
+      });
+      
+      setTimeout(function(){
+        $(window).trigger('resize');
+      }, 100);
+
+      
+    </script>
+</body>
+</html>
